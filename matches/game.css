@@ -1,0 +1,130 @@
+A:link {text-decoration: none}
+A:visited {text-decoration: none}
+A:active {text-decoration: none}
+
+/* Header: Event, Site, Date */
+.hEvent
+{ 
+	font-family:Verdana, Arial;
+	font-style:normal;
+	text-decoration:normal;
+	font-weight:normal;
+	font-size:10pt;
+	color:#800000;
+}
+
+/* Header: Players */
+.hPlayers
+{ 
+	font-family:Verdana, Arial;
+	font-style:normal;
+	text-decoration:normal;
+	font-weight:normal;
+	font-size:10pt;
+	color:#800000;
+}
+
+/* Header: Annotator, Eco */
+.hAnnot
+{ 
+	font-family:Verdana, Arial;
+	font-style:normal;
+	text-decoration:normal;
+	font-weight:normal;
+	font-size:10pt;
+	color:#800000;
+}
+
+/* Result */
+.VH
+{ 
+	font-family:Verdana, Arial;
+	font-style:normal;
+	text-decoration:normal;
+	font-weight:normal;
+	font-size:10pt;
+	color:#800000;
+}
+
+/* move comments */
+.VC
+{ 
+	font-family:Verdana, Arial;
+	font-style:normal;
+	text-decoration:normal;
+	font-weight:normal;
+	font-size:8pt;
+	color:#800000;
+}
+
+/* moves */
+.V0
+{ 
+	font-family:Verdana, Arial;
+	font-style:normal;
+	text-decoration:normal;
+	font-weight:bold;
+	font-size:10pt;
+	color:#000000;
+}
+
+/* 1. variation */
+.V1
+{ 
+	font-family:Verdana, Arial;
+	font-style:normal;
+	text-decoration:normal;
+	font-weight:normal;
+	font-size:8pt;
+	color:#000000;
+}
+
+/* 2.-x. variation */
+.V2
+{ 
+	font-family:Verdana, Arial;
+	font-style:normal;
+	text-decoration:normal;
+	font-weight:normal;
+	font-size:8pt;
+	color:#000000;
+}
+
+/* variation dialog */
+.vardialog
+{ 
+	background:#FFFFFF;
+
+	width:100px;
+	font-family:Verdana, Arial;
+	font-style:normal;
+	text-decoration:normal;
+	font-weight:bold;
+	font-size:9pt;
+	color:#000000;
+}
+
+/* autoplay dialog */
+.autoplaydlg
+{ 
+	background:#FFFFFF;
+
+	width:35px;
+	font-family:Arial;
+	font-style:normal;
+	text-decoration:normal;
+	font-weight:normal;
+	font-size:9pt;
+	color:#000000;
+}
+
+/* board coordinates */
+.coordinates
+{ 
+	font-family:Verdana, Arial;
+	font-style:normal;
+	text-decoration:normal;
+	font-weight:normal;
+	font-size:8pt;
+	color:#000000;
+}

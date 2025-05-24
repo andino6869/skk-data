@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>SK Kriegshaber: AFRO - Nachrichten</title>
+<description>News und Meldungen vom AFRO 2025</description>
+<link>https://www.skk.de</link>
+<language>de-de</language>
+<item>
+<title>30. AFRO 2025 (Augsburger Friedensfest-Open)</title>
+<link>https://www.skk.de/sites/message.php?Nr=3227</link>
+<guid isPermaLink="false">b0cff0bf5cc3a12ae0f2b224b17256ed</guid>
+<pubDate>Fri, 28 Feb 2025 11:59:24 +0100</pubDate>
+</item>
+<item>
+<title>30. AFRO 2025 (Augsburger Friedensfest-Open) - Turnierausschreibung</title>
+<description>Die Ausschreibung ist auch im Format .pdf im Download-Bereich rechts verfügbar</description>
+<link>https://www.skk.de/sites/message.php?Nr=3229</link>
+<guid isPermaLink="false">fc2c919f2bb8a1502cd16de6daebdc8b</guid>
+<pubDate>Sun, 04 May 2025 19:19:39 +0200</pubDate>
+</item>
+<item>
+<title>30. AFRO 2025 (Augsburger Friedensfest-Open) - Startrangliste</title>
+<description>Spieler, bei denen die Überweisung eingegangen ist, Stand: 21.05.2025</description>
+<link>https://www.skk.de/sites/message.php?Nr=3230</link>
+<guid isPermaLink="false">53f6aec86293670b553db788bd439991</guid>
+<pubDate>Wed, 21 May 2025 01:08:21 +0200</pubDate>
+</item>
+<atom:link href="https://www.skk.de/rss/rss_afro.xml" rel="self" type="application/rss+xml" /></channel>
+</rss>

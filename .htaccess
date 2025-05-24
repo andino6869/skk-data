@@ -1,0 +1,13 @@
+Options +FollowSymLinks
+
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_URI} ^/admin
+RewriteCond %{SERVER_PORT} 80
+#RewriteRule ^(.*)$ https://www.skk.de/$1 [R=301,L]
+
+#RewriteCond %{REQUEST_URI} !^/admin
+#RewriteCond %{SERVER_PORT} 443
+#RewriteRule ^(.*)$ http://www.skk.de/$1 [R=301,L]
+AddDefaultCharset UTF-8

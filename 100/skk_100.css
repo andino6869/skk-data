@@ -1,0 +1,20 @@
+body, pre {font-family:verdana,tahoma,arial,helvetica;color:black;background-color:#800000;text-decoration:none;font-size:12px;text-align:left;}
+
+A {font-size:10pt;font-family:Verdana,Arial,Sans-Serif;color:#663300;background:transparent;text-decoration:underline;}
+A:Visited {font-size:10pt;font-family:Verdana,Arial,Sans-Serif;color:#996600;background:transparent;text-decoration:underline;}
+A:Active {font-size:10pt;font-family:Verdana,Arial,Sans-Serif;color:black;background:transparent;text-decoration:underline;}
+A:Hover {font-size:10pt;font-family:Verdana,Arial,Sans-Serif;color:red;text-decoration:underline;}
+
+.a_footer {color:#5B2E00;font-family:verdana,arial,helvetica;font-size:10pt;font-weight:normal;}
+
+
+p, td, tr, table {font-size:10pt;font-family:verdana,tahoma,arial,helvetica;font-weight:normal}
+.sm {font-size:10pt;font-family:verdana,tahoma,arial,helvetica;font-weight:normal}
+.red_head {color:black;font-family:verdana,arial,helvetica;font-size:10pt;font-weight:bold;}
+
+.Tit {color:#ffffff;font-family:verdana,arial,helvetica;font-size:12pt;font-style:normal;font-weight:bold}
+
+.he1 {color:#000000;font-family:verdana,arial,helvetica;font-size:12pt;font-style:normal;font-weight:bold}
+.he2 {color:#000000;font-family:verdana,arial,helvetica;font-size:10pt;font-style:normal;font-weight:bold}
+
+.Pflichteingabe {font-size:10pt;font-family:Verdana,Arial,Sans-Serif;color:white;background:transparent;}

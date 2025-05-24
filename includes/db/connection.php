@@ -14,7 +14,7 @@
 		// Version LOCALHOST:
 		// if (!($conLocal = mysql_connect("localhost:/var/lib/mysql/mysql.sock", $curUser,"h!SWjuWW")))
 		// VERSION SKK:
-		if (!($conLocal = mysqli_connect("localhost", $curUser,"h!SWjuWW")))
+		if (!($conLocal = mysqli_connect("db", $curUser,"h!SWjuWW")))
 		{
 			echo("Server connection to database failed!<P>");
 			echo mysqli_error($conLocal);
@@ -2429,7 +2429,7 @@
 		// Version LOCALHOST:
 		//if (!($conLocal = mysql_connect("localhost:/var/lib/mysql/mysql.sock", $curUser,"h!SWjuWW")))
 		// VERSION SKK:
-		if (!($objDBCon = mysqli_connect("localhost", $curUser,"h!SWjuWW")))
+		if (!($objDBCon = mysqli_connect("db", $curUser,"h!SWjuWW")))
 		{
 			echo "Server connection to database failed!<P>".chr(13).chr(10);
 			echo mysqli_error($objDBCon);
